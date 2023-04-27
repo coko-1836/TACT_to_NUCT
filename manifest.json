@@ -7,7 +7,7 @@
     "author":"Shino D",
     "action":{
         "default_popup":"popup.html",
-        "default_icon": "icon.jpg"
+        "default_icon": "icon.png"
     },
     "content_scripts": [
         {
